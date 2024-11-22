@@ -1,0 +1,22 @@
+{
+    "short_name": "MoodScribe",
+    "name": "MoodScribe - Your Daily Mood Tracker",
+    "description": "MoodScribe is a versatile and user-friendly web application that allows users to track and reflect upon their daily moods.",
+    "id": "/",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4F46E5",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
