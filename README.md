@@ -14,7 +14,8 @@ MoodScribe is a versatile and user-friendly web application that allows users to
 
 ## Demo
 
-![MoodScribe Screenshot](https://github.com/PStarH/moodscribe/blob/main/screenshots/demo.png?raw=true)
+[Live Demo](https://mood-scribe.vercel.app/)
+
 
 ## Technologies Used
 
